@@ -1,0 +1,8 @@
+openai
+speechrecognition
+python-dotenv
+pyaudio
+requests
+pyttsx3
+pywhatkit
+elevenlabs 
